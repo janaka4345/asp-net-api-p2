@@ -1,0 +1,6 @@
+@asp_net_api_p2_HostAddress = http://localhost:5204
+
+GET {{asp_net_api_p2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
